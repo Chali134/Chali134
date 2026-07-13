@@ -82,20 +82,6 @@ Bachelor's in Computer Science — COMSATS University, 2026
 - Figma for UX Design (LinkedIn Learning)
 - Google Analytics (Google)
 
-<h2 align="left">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chali134&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Chali134" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chali134&theme=tokyonight&hide_border=true" alt="Chali134" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chali134&theme=tokyonight&hide_border=true&layout=compact" alt="Chali134" />
-</p>
-
 <!-- links -->
 [ali-title]: #ali-title
 [Raag Fest]: https://github.com/Chali134 "Raag Fest"
