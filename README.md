@@ -26,15 +26,11 @@
   <tr>
     <td align="center" width="96">
       <a href="#ali-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /></a>
-      <br>HTML5
+      <br>HTML 5
     </td>
     <td align="center" width="96">
       <a href="#ali-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /></a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#ali-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /></a>
-      <br>JavaScript
+      <br>CSS 3
     </td>
     <td align="center" width="96">
       <a href="#ali-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" /></a>
@@ -45,16 +41,30 @@
       <br>Figma
     </td>
     <td align="center" width="96">
+      <a href="#ali-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" /></a>
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <a href="#ali-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator" /></a>
+      <br>Illustrator
+    </td>
+    <td align="center" width="96">
       <a href="#ali-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="48" height="48" alt="Unity" /></a>
       <br>Unity
     </td>
     <td align="center" width="96">
-      <a href="#ali-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" /></a>
-      <br>Tailwind
+      <a href="#ali-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="48" height="48" alt="Notion" /></a>
+      <br>Notion
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#ali-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" width="48" height="48" alt="Framer" /></a>
+      <br>Framer
     </td>
     <td align="center" width="96">
-      <a href="#ali-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" /></a>
-      <br>Firebase
+      <a href="#ali-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chatgpt/chatgpt-original.svg" width="48" height="48" alt="ChatGPT" /></a>
+      <br>ChatGPT
     </td>
   </tr>
 </table>
